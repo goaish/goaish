@@ -1,14 +1,27 @@
-# Hi, I'm Aishwarya
+<!-- Banner -->
+<p align="center">
+  <img src="https://www.canva.com/design/DAGdUqpw8P4/PqfeerdflUBuVozCa_SLSQ/edit?utm_content=DAGdUqpw8P4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Aishwarya Banner" width="100%" />
+</p>
 
-### An enthusiastic developer from India who's currently exploring new technologies.
+<h1 align="center">Hi, I'm Aishwarya 👋</h1>
+<h3 align="center">🚀 Cybersecurity | Machine Learning | Web Development</h3>
 
-- I’m currently working on Cybersecurity projects .  
-- I’m currently learning Machine Learning  
-- I’m looking to collaborate on any great idea!    
-- How to reach me: siaish388@gmail.com
+---
 
-### Connect with me:
-[LinkedIn • Instagram • Hackerrank • LeetCode]
+## 🧑‍💻 About Me
+- 🔐 Currently working on **Cybersecurity projects**
+- 🤖 Learning **Machine Learning & AI**
+- 💡 Open to collaborating on **exciting tech projects**
+- 📫 Reach me at **siaish388@gmail.com**
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aishwarya-7b20a532a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/itsaish/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/brill_angel_82)
+
+---
 
 <!--
 **goaish/goaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
