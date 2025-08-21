@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aishwarya
+
+### An enthusiastic developer from India who's currently exploring new technologies.
+
+- I’m currently working on Cybersecurity projects .  
+- I’m currently learning Machine Learning  
+- I’m looking to collaborate on any great idea!    
+- How to reach me: siaish388@gmail.com
+
+### Connect with me:
+[LinkedIn • Instagram • Hackerrank • LeetCode]
 
 <!--
 **goaish/goaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
