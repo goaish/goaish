@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGdUqpw8P4/PqfeerdflUBuVozCa_SLSQ/edit?utm_content=DAGdUqpw8P4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Aishwarya Banner" width="100%" />
+  <img src="https://github.com/goaish/goaish/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" alt="Aishwarya Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Aishwarya 👋</h1>
