@@ -4,8 +4,8 @@
 </p>
 
 <h1 align="center">Hi, I'm Aishwarya </h1>
-I’m **Aishwarya**, a passionate developer specializing in **Cybersecurity**  and **Machine Learning** .  
-I don’t just **write code** — I **solve problems** and **build secure, scalable solutions** that create real-world impact.
+I’m Aishwarya, a passionate developer specializing in Cybersecurity  and Machine Learning .  
+I don’t just write code — I solve problems and build secure, scalable solutions that create real-world impact.
 
 With a growing expertise in **threat detection, AI-powered security systems.**, I thrive on exploring cutting-edge technologies and turning ideas into **working, deployable projects**.  
 
