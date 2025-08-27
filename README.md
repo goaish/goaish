@@ -31,6 +31,7 @@ I believe that **security and intelligence are the future of tech**, and I’m o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aishwarya-7b20a532a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/itsaish/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/brill_angel_82)
+[![Medium](https://img.shields.io/badge/Medium-pink?style=for-the-badge&logo=medium)](https://medium.com/@siaish388/my-research-internship-at-sag-drdo-ministry-of-defence-58a5fb832c46)
 
 ---
 
