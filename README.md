@@ -2,14 +2,10 @@
 <p align="center">
   <img src="https://github.com/goaish/goaish/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" alt="Aishwarya Banner" width="100%" />
 </p>
-## Hello! 👋 I'm Aishwarya
+# Hello! 👋 I'm Aishwarya
 ---
-A curious and passionate developer exploring **Cybersecurity, Machine Learning, and Full-Stack Development**, building smart, secure, and impactful projects.
 
-
-Hi! I’m **Aishwarya**, a curious and passionate developer exploring **Cybersecurity, Machine Learning, and Full-Stack Development**.  
-I love creating projects that combine **creativity with real-world impact** — from 3D simulations to AI-powered security tools and full-stack applications.  
-I thrive on building solutions that are **smart, secure, and scalable**, and I’m always eager to learn and take on new challenges.
+Hi! I’m **Aishwarya**, a curious and passionate developer exploring **Cybersecurity, Machine Learning, and Full-Stack Development**. I love creating projects that combine **creativity with real-world impact**, from 3D simulations to AI-powered security tools and full-stack applications. I thrive on building solutions that are **smart, secure, and scalable**, and I’m always eager to learn and take on new challenges.
 
 ---
 
