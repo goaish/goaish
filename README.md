@@ -2,80 +2,58 @@
 <p align="center">
   <img src="https://github.com/goaish/goaish/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" alt="Aishwarya Banner" width="100%" />
 </p>
+# Hello! 👋 I'm Aishwarya 
 
-# Aishwarya Banner 👋
-
-Hi, I'm **Aishwarya**  
-A passionate developer specializing in **Cybersecurity** and **Machine Learning**.  
-I don’t just write code — I **solve problems, secure systems, and build AI-powered solutions** that create real-world impact.
+Hi! I’m **Aishwarya**, a curious and slightly obsessive developer exploring **Cybersecurity, Machine Learning, and Full-Stack Development**.  
+I don’t just code — I build, secure, debug, and occasionally break things just to make them better 😎.
 
 ---
 
-## 🚀 About Me
-- Currently working on **Cybersecurity projects**  
-- Learning **Machine Learning & AI**  
-- Open to collaborating on **cutting-edge tech projects**  
-- Reach me at: **[siaish388@gmail.com](mailto:siaish388@gmail.com)**
+## About Me
+- 🕵️‍♀️ Love exploring cybersecurity vulnerabilities and creating AI solutions  
+- 🎨 Passionate about building **user-centric projects** with thoughtful design  
+- 💻 Debugging till 2 AM is my cardio  
+- 🌱 Always learning, experimenting, and turning crazy ideas into working projects  
+- 📚 Believe in **hands-on learning** — from 3D simulations to full-stack apps  
 
 ---
 
-## 💡 What I Bring to the Table
-
-| Area | Skills & Achievements |
-|------|---------------------|
-| Cybersecurity | Vulnerability scanning, secure authentication, network defense |
-| Machine Learning | Predictive analytics, AI-driven malware detection, NLP-based phishing detection |
-| Problem Solving | 300+ coding problems solved on **LeetCode** & **CodeChef** |
-| Collaboration | Open-source contributions, innovative team projects, hackathon participation |
+## Languages & Tools I’m Playing With
+`Python` `C++` `JavaScript` `TypeScript` `HTML5` `CSS3` `React` `Node.js` `MongoDB` `PostgreSQL` `TensorFlow` `Scikit-learn` `Docker` `AWS` `Figma` `Wireshark` `Nmap`
 
 ---
 
-## 🔭 Current Projects
+## 📁 Projects I’ve Built
 
-### 1. **CyberAI Security Suite**
-AI-powered security system for detecting threats in real-time.  
-**Tech:** Python, TensorFlow, Scikit-learn, Network Security Tools  
-**Features:**  
-- Real-time malware detection  
-- NLP-based phishing detection  
-- Threat-level analytics dashboard
+### 1. 🪨 **Magma 3D Simulation**
+**Mar 2025** | Tech Stack: C++, OpenGL, 3D Graphics  
+- Built a **3D simulation of magma flow** for scientific visualization  
+- Features interactive controls to explore heat, pressure, and flow dynamics  
+- A hands-on way to blend **graphics programming and physics**  
 
-### 2. **Smart Threat Analyzer**
-A tool to analyze and visualize vulnerabilities in networks.  
-**Tech:** Python, React, MongoDB  
-**Features:**  
-- Network vulnerability mapping  
-- Exploit simulation  
-- Automated report generation
+### 2. ⚖️ **NyayPaksh – AI Legal Research Platform (SIH 2024 Winner)**
+**Dec 2024** | Tech Stack: React, Node.js, Langchain, HuggingFace, PostgreSQL  
+- AI-powered **legal research platform** for Indian commercial law  
+- Multilingual search across 500+ case precedents  
+- Integrated GenAI + NLP + Google Translate API for scalable, secure access  
 
-### 3. **AI-Powered ML Models**
-Projects to implement predictive analytics in cybersecurity.  
-**Highlights:**  
-- AI model to detect unusual network traffic patterns  
-- ML classifier for malicious file detection  
-- Dataset preprocessing pipelines
+### 3. 🚦 **Tarang – Smart Traffic Management System**
+**Feb 2025** | Tech Stack: React, Node.js, MongoDB, ML  
+- AI-powered **urban traffic management system**  
+- Real-time congestion prediction, parking availability, and route optimization  
+- Dashboard and analytics for city administrators  
 
----
+### 4. 🌱 **YouthUp – Startup Networking Platform**
+**Apr 2025** | Tech Stack: React, Node.js, MongoDB  
+- Connects **entrepreneurs, startups, and mentors**  
+- Features project collaboration boards, chat, and AI-driven recommendations  
+- Focused on fostering innovation and community  
 
-## 📊 GitHub Stats
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=goaish&show_icons=true&theme=radical)
-
----
-
-## 🛠 Skills
-**Languages:** Python, C++, Bash, SQL  
-**Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite  
-**ML/AI:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV  
-**Web & Cloud:** React, Node.js, MongoDB, AWS, Docker
-
----
-
-## ✨ Fun / Rare Features
-- 🔹 **Dynamic Project Highlights:** GitHub API + badges to show your top repos  
-- 🔹 **Visitor Counter:** `![Visitor Count](https://profile-counter.glitch.me/goaish/count.svg)`  
-- 🔹 **Top Languages:** `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goaish&layout=compact)`  
-- 🔹 **AI Badge for Active Learning:** Custom badge for ML/Cybersecurity projects  
-- 🔹 **Pinned Repos Showcase:** Use GitHub cards for your key projects  
+### 5. 🍔 **Food Delivery App**
+**Jan 2025** | Tech Stack: React Native, Node.js, MongoDB, Firebase  
+- Complete **food delivery solution** with live order tracking  
+- User-friendly UI/UX for restaurants and customers  
+- Integrated payment gateway and push notifications  
 
 ---
 
@@ -84,4 +62,12 @@ Projects to implement predictive analytics in cybersecurity.
 
 ---
 
-> “Building smarter, safer, and stronger digital systems is not just a goal—it’s my mission.”
+## 📊 GitHub Stats & Fun Badges
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=goaish&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goaish&layout=compact&theme=radical)  
+![Visitor Count](https://profile-counter.glitch.me/goaish/count.svg)
+
+---
+
+> “Building smarter, safer, and visually stunning digital solutions is my playground — and I’m here to code, break, and rebuild.”
+
