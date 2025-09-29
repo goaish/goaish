@@ -3,49 +3,85 @@
   <img src="https://github.com/goaish/goaish/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" alt="Aishwarya Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Aishwarya </h1>
-I’m Aishwarya, a passionate developer specializing in Cybersecurity  and Machine Learning .  
-I don’t just write code — I solve problems and build secure, scalable solutions that create real-world impact.
+# Aishwarya Banner 👋
 
-With a growing expertise in **threat detection, AI-powered security systems.**, I thrive on exploring cutting-edge technologies and turning ideas into **working, deployable projects**.  
-
-I believe that **security and intelligence are the future of tech**, and I’m on a mission to combine both — building smarter, safer, and stronger digital systems.
+Hi, I'm **Aishwarya**  
+A passionate developer specializing in **Cybersecurity** and **Machine Learning**.  
+I don’t just write code — I **solve problems, secure systems, and build AI-powered solutions** that create real-world impact.
 
 ---
 
-##  About Me
--  Currently working on **Cybersecurity projects**
--  Learning **Machine Learning & AI**
--  Open to collaborating on **exciting tech projects**
--  Reach me at **siaish388@gmail.com**
+## 🚀 About Me
+- Currently working on **Cybersecurity projects**  
+- Learning **Machine Learning & AI**  
+- Open to collaborating on **cutting-edge tech projects**  
+- Reach me at: **[siaish388@gmail.com](mailto:siaish388@gmail.com)**
 
 ---
-###  What I Bring to the Table  
-- **Cybersecurity Skills** → Vulnerability scanning, secure authentication, network defense  
-- **Machine Learning Projects** → Predictive analytics, AI-driven malware detection, NLP-based phishing detection  
-- **Problem Solving** → 300+ coding problems solved on **LeetCode** & **CodeChef**  
-- **Collaboration** → Open to working with innovative teams, contributing to **open-source projects**, and tackling challenging problems together  
 
+## 💡 What I Bring to the Table
+
+| Area | Skills & Achievements |
+|------|---------------------|
+| Cybersecurity | Vulnerability scanning, secure authentication, network defense |
+| Machine Learning | Predictive analytics, AI-driven malware detection, NLP-based phishing detection |
+| Problem Solving | 300+ coding problems solved on **LeetCode** & **CodeChef** |
+| Collaboration | Open-source contributions, innovative team projects, hackathon participation |
+
+---
+
+## 🔭 Current Projects
+
+### 1. **CyberAI Security Suite**
+AI-powered security system for detecting threats in real-time.  
+**Tech:** Python, TensorFlow, Scikit-learn, Network Security Tools  
+**Features:**  
+- Real-time malware detection  
+- NLP-based phishing detection  
+- Threat-level analytics dashboard
+
+### 2. **Smart Threat Analyzer**
+A tool to analyze and visualize vulnerabilities in networks.  
+**Tech:** Python, React, MongoDB  
+**Features:**  
+- Network vulnerability mapping  
+- Exploit simulation  
+- Automated report generation
+
+### 3. **AI-Powered ML Models**
+Projects to implement predictive analytics in cybersecurity.  
+**Highlights:**  
+- AI model to detect unusual network traffic patterns  
+- ML classifier for malicious file detection  
+- Dataset preprocessing pipelines
+
+---
+
+## 📊 GitHub Stats
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=goaish&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Skills
+**Languages:** Python, C++, Bash, SQL  
+**Cybersecurity Tools:** Wireshark, Nmap, Metasploit, Burp Suite  
+**ML/AI:** TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV  
+**Web & Cloud:** React, Node.js, MongoDB, AWS, Docker
+
+---
+
+## ✨ Fun / Rare Features
+- 🔹 **Dynamic Project Highlights:** GitHub API + badges to show your top repos  
+- 🔹 **Visitor Counter:** `![Visitor Count](https://profile-counter.glitch.me/goaish/count.svg)`  
+- 🔹 **Top Languages:** `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goaish&layout=compact)`  
+- 🔹 **AI Badge for Active Learning:** Custom badge for ML/Cybersecurity projects  
+- 🔹 **Pinned Repos Showcase:** Use GitHub cards for your key projects  
+
+---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aishwarya-7b20a532a/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-grey?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/itsaish/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-grey?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/brill_angel_82)
-[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium)](https://medium.com/@siaish388/my-research-internship-at-sag-drdo-ministry-of-defence-58a5fb832c46)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/goaish) | [LeetCode](https://leetcode.com/goaish) | [CodeChef](https://www.codechef.com/users/goaish) | [Medium](https://medium.com/@goaish)
 
 ---
 
-<!--
-**goaish/goaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Building smarter, safer, and stronger digital systems is not just a goal—it’s my mission.”
